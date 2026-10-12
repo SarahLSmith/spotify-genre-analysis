@@ -48,11 +48,8 @@ results, and the metric to compare by.
   Remove them before sharing the repository more widely.
 - `data.csv` is about 29 MB. GitHub accepts it, but it's close to the size
   where Git LFS becomes worth considering.
-- The recommender uses Euclidean distance over features that are on
-  different scales until they're normalised. The normalisation step is
-  there, but no sensitivity check has been done.
 
 ## Data
 
-The Spotify dataset is distributed for research and coursework use.
-Check its licence terms before reusing the data elsewhere.
+Check the dataset's licence terms before reusing the data outside this
+coursework.
